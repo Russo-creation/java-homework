@@ -13,6 +13,6 @@ public class MyforhtComponent {
     }
 
     public void helloFromMethod(){
-        System.out.println("Hello from MyForthComponent -----------------------------------------------asdasdasdd");
+        System.out.println("Hello from MyForthComponent");
     }
 }
