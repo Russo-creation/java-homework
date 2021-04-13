@@ -1,0 +1,24 @@
+my:
+  custom:
+    property: Hello from application properties
+    varboolean: false
+
+---
+spring:
+  config:
+    activate:
+      on-profile: dev
+my:
+  custom:
+    property: Hello from application properties DEV env
+    random: No longer default DEV env
+    varboolean: true
+
+---
+spring:
+  config:
+    activate:
+      on-profile: qa
+my:
+  custom:
+    random: No longer default QA env
