@@ -11,6 +11,7 @@ import java.util.List;
 @Configuration
 public class DataConfig {
 
+
     @Bean
     public Pojo pojo() {
         return new Pojo("some value");
