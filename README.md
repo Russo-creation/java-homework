@@ -1,4 +1,11 @@
-# Homework- zjazd 2 
+# Homework- zjazd 4
+
+Link to [HomeworkController](https://github.com/Russo-creation/java-homework/blob/master/src/main/java/com/example/demo/HomeworkController.java).
+
+Link to [Homework Class](https://github.com/Russo-creation/java-homework/blob/master/src/main/java/com/example/demo/Homework.java).
+
+
+# Homework- zjazd 3
 
 Homework was prepared basing on Bean for [MyforthComponent](https://github.com/Russo-creation/java-homework/blob/3503bbbb843abe29e72db4426694931b1a97f3c4/src/main/java/com/example/demo/ComponentConfig.java#L12-L16). 
 
