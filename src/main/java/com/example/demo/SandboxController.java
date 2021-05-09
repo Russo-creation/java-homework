@@ -38,4 +38,9 @@ public class SandboxController {
         return ResponseEntity.ok(car);
     }
 
+    @GetMapping("/hello/ex")
+    public ResponseEntity<String> exception(){
+        throw new RuntimeException("Testing RestControllerAdvice");
+    }
+
 }
